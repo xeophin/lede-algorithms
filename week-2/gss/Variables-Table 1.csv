@@ -1,0 +1,11 @@
+Name;Label;Question Text;Description;Category
+age;Age of respondent;RESPONDENT'S AGE;;
+relig;Rs religious preference;What is your religious preference?  Is it Protestant, Catholic, Jewish, some other religion, or no religion?;;
+fund;How fundamentalist is r currently;Fundamentalism/Liberalism of Respondent's Religion;;
+relig16;Religion in which raised;In what religion were you raised?;;
+memchurh;Membership in church group;"Now we would like to know something about the groups or organizations to which individuals belong. Here is a list of various organizations. Could you tell me whether or not you are a member of each type?  READ EACH ITEM. CODE OnE FOR EACH.
+O. Church-affiliated groups [See REMARKS]";;
+savesoul;Tried to convince others to accept jesus;Have you ever tried to encourage someone to believe in Jesus Christ or to accept Jesus Christ as his or her savior?;;
+homosex1;Is homosexual sex wrong?;C. And what about sexual relations between two adults of the same sex, is it. . .;;
+;;;;
+;;;;
